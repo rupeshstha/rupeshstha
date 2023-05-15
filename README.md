@@ -10,13 +10,13 @@ Just kidding, but I do enjoy optimizing my code to the point where it's almost f
 ```php
 <?php
 
-namespace Nepal\Kathmandu\SoftwareEngineer;
+namespace Nepal\SoftwareEngineer;
 
 class Bio extends SoftwareDeveloper
 {
   private string $name = "Rupesh Shrestha";
   private string $title = "Senior Dev Ninja 🥷";
-  private string $location = "Kalanki";
+  private string $location = "Nepal";
 }
 
 ```
