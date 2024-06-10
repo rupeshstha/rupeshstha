@@ -12,7 +12,7 @@ Just kidding, but I do enjoy optimizing my code to the point where it's almost f
 
 namespace Nepal\SoftwareEngineer;
 
-class Bio extends SoftwareDeveloper
+class Bio extends SoftwareEngineer
 {
   private string $name = "Rupesh Shrestha";
   private string $title = "Senior Dev Ninja 🥷";
