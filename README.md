@@ -16,7 +16,7 @@ class Bio extends SoftwareEngineer
 {
   private string $name = "Rupesh Shrestha";
   private string $title = "Senior Dev Ninja 🥷";
-  private string $location = "Nepal";
+  private string $location = "New Zealand";
 }
 
 ```
