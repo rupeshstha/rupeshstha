@@ -36,7 +36,6 @@ class Profile extends EngineeringLeader
     {
         return [
             'core'     => 'Laravel & Agentic AI Systems',
-            'research' => 'Applied Management & Business ROI',
             'location' => 'New Zealand',
             'motto'    => 'Build systems that scale and teams that thrive.'
         ];
