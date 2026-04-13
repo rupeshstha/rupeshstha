@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Rupesh Shrestha
 
-I am a **Software Engineer** and **Postgraduate Student (Applied Management)** based in New Zealand. I specialize in building autonomous AI systems and high-performance web applications, bridging the gap between technical architecture and business value.
+I am a **Software Engineer** based in New Zealand. I specialize in building autonomous AI systems and high-performance web applications, bridging the gap between technical architecture and business value.
 
 #### 🚀 What I'm working on
 * **Agentic AI:** Developing multi-agent orchestration systems from scratch using Laravel and the Model Context Protocol (MCP).
