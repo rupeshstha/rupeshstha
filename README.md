@@ -9,9 +9,9 @@ I am a **Software Engineer** based in New Zealand. I specialize in building auto
 
 #### 🛠️ Tech Stack & Skills
 * **Languages:** PHP (Expert), JavaScript, Python
-* **Frameworks:** Laravel, NextJs, Vue, React, Tailwind CSS
+* **Frameworks:** Laravel (Expert), NextJs, Vue, React, Tailwind CSS
 * **AI/ML:** RAG Pipelines, Agentic Frameworks, Multi-agent Orchestration
-* **Management:** Business Analytics, Applied HRM, Training & Development Strategies
+* **Management:** Business Analytics, Training & Development Strategies
 
 #### ✍️ Recent Blog Posts
 * <a href="https://blog.rupeshstha.com.np/" target="_blank">Stop Rewriting Everything: The Hard Truth About Collaborative Engineering</a>
