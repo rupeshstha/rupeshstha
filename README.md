@@ -9,7 +9,7 @@ I am a **Software Engineer** based in New Zealand. I specialize in building auto
 
 #### 🛠️ Tech Stack & Skills
 * **Languages:** PHP (Expert), JavaScript, Python
-* **Frameworks:** Laravel (Expert), NextJs, Vue, React, Tailwind CSS
+* **Frameworks:** Laravel (Expert), NextJs, Vue, React, Tailwind CSS, Livewire, InertiaJs, Flux UI
 * **AI/ML:** RAG Pipelines, Agentic Frameworks, Multi-agent Orchestration
 * **Management:** Business Analytics, Training & Development Strategies
 
